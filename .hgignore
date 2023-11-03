@@ -1,0 +1,9 @@
+^BUILD$
+^.mbed$
+^compile_commands.json$
+^.clangd$
+^.cache$
+^mbed-os$
+^LM75B$
+^C12832$
+^ESP-call$
